@@ -1,0 +1,16 @@
+# Tooling
+black
+ruff
+mypy
+setuptools
+ipdb
+pytest
+Faker
+setuptools
+wheel
+
+# Dependencies
+result
+pydantic
+sqlalchemy
+typer
